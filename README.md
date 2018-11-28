@@ -18,4 +18,14 @@ MINIMAX flowchart:
 
 ![image](https://user-images.githubusercontent.com/30030792/49173047-9a62e980-f310-11e8-9530-3a1c6aafbf6b.png)
 
+screenshot of the result program :
+![jj](https://user-images.githubusercontent.com/30030792/49173940-0d6d5f80-f313-11e8-82fb-ad2e61b51c9c.JPG)
+
+screenshot of the AI wining :
+
+![captura](https://user-images.githubusercontent.com/30030792/49174016-3e4d9480-f313-11e8-8eb6-211d4aba013f.JPG)
+
+
+
+
 
