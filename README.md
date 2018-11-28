@@ -1,5 +1,5 @@
 # 20182_cstopics_ConnectFourAI
-AI entity who play connect four in real life using a camera.
+AI entity who plays connect four in real life using a camera.
 
 project consist of an AI entity who play connect four in real life using a camera (in this case and xbox 360 kinect) to see the game board,  minimax algorithm with alpha beta to pruning and improve the time that the AI entity takes to make their decisions and stepper motor that shows were to put the puzzle when the AI plays.
 
