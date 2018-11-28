@@ -15,10 +15,10 @@ The theoretical foundation used to develop this project was:
 to run the game jusr run:
 python Splay.py 
 this program run with and xbox 360 camera with boot drivers  freenect and openNi (see the comments to choose with one you want to use), if you wanna use a normal camera just change the frame for corresponding camera and you're free to go, also you need and arduino with and H bridge to move the stepper motor, look in to  the arduino folder for pins conections of the H bridge.
-to change the turn between AI and human, you also need and photoelectric sensor (look into arduino folder for mor information about the pins connections.)
+to change the turn between AI and human, you also need and photoelectric sensor (look into arduino folder for more information about the pins connections.)
 
 
-the flowchart of the algorithm is :
+## the flowchart of the algorithm is :
 ![image](https://user-images.githubusercontent.com/30030792/49172687-b9ad4700-f30f-11e8-8da1-25f624d3a9fc.png)
 
 ## MINIMAX flowchart:
