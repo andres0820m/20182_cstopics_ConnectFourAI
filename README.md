@@ -14,7 +14,7 @@ The theoretical foundation used to develop this project was:
 ## how to run:
 to run:
 python Splay.py 
-thivs program run with and xbox 360 camera with boot drivers  freenect and openNi (see the comments to choose with one you want to use), if you wanna use a normal camera just change the frame for corresponding camera and you're free to go, also you need and arduino with and H bridge to move the stepper motor, look in to  the arduino folder for pins conections of the H bridge.
+this program run with and xbox 360 camera with boot drivers  freenect and openNi (see the comments to choose with one you want to use), if you wanna use a normal camera just change the frame for corresponding camera and you're free to go, also you need and arduino with and H bridge to move the stepper motor, look in to  the arduino folder for pins conections of the H bridge.
 to change the turn between AI and human, you also need and photoelectric sensor (look into arduino folder for more information about the pins connections.)
 
 
