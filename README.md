@@ -11,21 +11,28 @@ The theoretical foundation used to develop this project was:
 - adversarial search
 - minimax algorithm
 
+## how to run:
+to run the game jusr run:
+python Splay.py 
+this program run with and xbox 360 camera with boot drivers  freenect and openNi (see the comments to choose with one you want to use), if you wanna use a normal camera just change the frame for corresponding camera and you're free to go, also you need and arduino with and H bridge to move the stepper motor, look in to  the arduino folder for pins conections of the H bridge.
+to change the turn between AI and human, you also need and photoelectric sensor (look into arduino folder for mor information about the pins connections.)
+
+
 the flowchart of the algorithm is :
 ![image](https://user-images.githubusercontent.com/30030792/49172687-b9ad4700-f30f-11e8-8da1-25f624d3a9fc.png)
 
-MINIMAX flowchart:
+## MINIMAX flowchart:
 
 ![image](https://user-images.githubusercontent.com/30030792/49173047-9a62e980-f310-11e8-9530-3a1c6aafbf6b.png)
 
-screenshot of the result program :
+## screenshot of the result program :
 ![jj](https://user-images.githubusercontent.com/30030792/49173940-0d6d5f80-f313-11e8-82fb-ad2e61b51c9c.JPG)
 
-screenshot of the AI wining :
+## screenshot of the AI wining :
 
 ![captura](https://user-images.githubusercontent.com/30030792/49174016-3e4d9480-f313-11e8-8eb6-211d4aba013f.JPG)
 
-photos of the prototype:
+## photos of the prototype:
 
 
 ![whatsapp image 2018-11-28 at 1 42 23 pm](https://user-images.githubusercontent.com/30030792/49174333-085ce000-f314-11e8-9015-a63dc335d227.jpeg)
