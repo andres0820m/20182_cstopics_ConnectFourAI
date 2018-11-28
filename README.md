@@ -7,7 +7,7 @@ The theoretical foundation used to develop this project was:
 - image filtering 
 - morphological transformation
 - search trees
-- decision trees
+- decision treesos
 - adversarial search
 - minimax algorithm
 
@@ -24,6 +24,14 @@ screenshot of the result program :
 screenshot of the AI wining :
 
 ![captura](https://user-images.githubusercontent.com/30030792/49174016-3e4d9480-f313-11e8-8eb6-211d4aba013f.JPG)
+
+photos of the prototype:
+
+
+![whatsapp image 2018-11-28 at 1 42 23 pm](https://user-images.githubusercontent.com/30030792/49174333-085ce000-f314-11e8-9015-a63dc335d227.jpeg)
+
+![whatsapp image 2018-11-28 at 1 42 15 pm](https://user-images.githubusercontent.com/30030792/49174382-2fb3ad00-f314-11e8-9eea-d46ea70863ad.jpeg)
+
 
 
 
