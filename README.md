@@ -13,7 +13,9 @@ The theoretical foundation used to develop this project was:
 
 the flowchart of the algorithm is :
 ![image](https://user-images.githubusercontent.com/30030792/49172687-b9ad4700-f30f-11e8-8da1-25f624d3a9fc.png)
+
 MINIMAX flowchart:
+
 ![image](https://user-images.githubusercontent.com/30030792/49173047-9a62e980-f310-11e8-9530-3a1c6aafbf6b.png)
 
 
