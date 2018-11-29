@@ -38,7 +38,8 @@ to change the turn between AI and human, you also need an photoelectric sensor (
 ![whatsapp image 2018-11-28 at 1 42 23 pm](https://user-images.githubusercontent.com/30030792/49174333-085ce000-f314-11e8-9015-a63dc335d227.jpeg)
 
 ![whatsapp image 2018-11-28 at 1 42 15 pm](https://user-images.githubusercontent.com/30030792/49174382-2fb3ad00-f314-11e8-9eea-d46ea70863ad.jpeg)
-
+## youtube video :
+https://www.youtube.com/watch?v=abIrOX-Xmjc
 
 
 
